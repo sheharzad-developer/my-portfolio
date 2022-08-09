@@ -1,0 +1,23 @@
+/* .MuiBox-root.MuiBox-root-78 {
+    display: inline-grid;
+    bordeR: 0;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+  } */
+
+.MuiBox-root.MuiBox-root-78 {
+  display: inline-grid;
+  width: 100%;
+  text-align: center;
+}
+
+.MuiBox-root.MuiBox-root-80 {
+  display: inline-grid;
+  text-align: center;
+}
+
+.MuiCircularProgress-root.MuiCircularProgress-colorPrimary.MuiCircularProgress-determinate {
+  margin: 0 auto;
+  padding: 20px 0;
+}
